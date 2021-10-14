@@ -1,12 +1,11 @@
 {
   "key": "1c8d10f454ab49e3af4406f44257c88f",
   "mode": true,
-  "links": [
-    {
-      "link": "https://xstart.space/click.php?key=1vmo9bej7t1fz8hg7f6e",
-      "type": "over",
-      "count": 2
-    }
-  ],
-  "countries": "PT"
+  "country_codes": [
+    "PT"
+   ],
+  "pid": "up9rhm",
+  "offerId": 33,
+  "ref": "https://mastermindmercy.info?group=33&pid=up9rhm",
+  "logo": "https://mastermindmercy.info/img/logo.png"
 }
